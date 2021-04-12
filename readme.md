@@ -37,7 +37,7 @@ A list of future planned fixes / improvements are listed below.
 | Add missing character files  | Low      |
 
 ### Problems / Improvements
-If you have any suggested improvements for this project or you encounter any issues, please feel free to open an issue [here](https://github.com/damon-murdoch/numerical-methods/issues) or send me a message on twitter detailing the issue and how it can be replicated.
+If you have any suggested improvements for this project or you encounter any issues, please feel free to open an issue [here](https://github.com/damon-murdoch/fe-fates-unit-files/issues) or send me a message on twitter detailing the issue and how it can be replicated.
 
 ## Sponsor this Project
 If you'd like to support this project and other future projects, 
